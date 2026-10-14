@@ -1,0 +1,6 @@
+{
+  "name": "UMA 3 Migration & Character Creator Studio",
+  "description": "Complete UMA 3 upgrade workbench and DCS Simple Setup character creation studio for MMO Lite (Unity 6000.3.14f1), featuring real-time 3D avatar customizer, shader patchers, dynamic equipment API, and C# migration scripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
